@@ -1,0 +1,5 @@
+**********************
+** CONGRATULATIONS! **
+**********************
+
+The Aurora Controller has been installed.
