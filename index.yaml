@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  aurora-controller:
+  - apiVersion: v2
+    appVersion: 0.2.0
+    created: "2025-02-25T23:36:07.910610338Z"
+    description: A Helm chart for the Aurora Controller.
+    digest: dee6137c3d5b5bfc6a411142c95e5c6217bce54ac9be5a08efd1900d02557708
+    name: aurora-controller
+    type: application
+    urls:
+    - https://github.com/gccloudone-aurora/aurora-controller/releases/download/aurora-controller-0.0.1/aurora-controller-0.0.1.tgz
+    version: 0.0.1
+generated: "2025-02-25T23:36:07.910614817Z"
