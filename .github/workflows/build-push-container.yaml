@@ -12,5 +12,5 @@ on:
       - 'main'
 
 jobs:
-  release-helm:
-    uses: gccloudone-aurora/.github/.github/workflows/release-helm.yaml@v1
+  build-push-container:
+    uses: gccloudone-aurora/.github/.github/workflows/build-push-container.yaml@v1
